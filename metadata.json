@@ -1,0 +1,6 @@
+{
+  "name": "Stock Trading Platform",
+  "description": "Simulated stock trading platform with live market quotes, order execution, real-time charts, and comprehensive portfolio performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
